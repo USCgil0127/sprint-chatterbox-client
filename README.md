@@ -11,10 +11,6 @@
 - 클라이언트가 테스트에 통과할 수 있도록 만드세요.
 - XSS 공격을 어떻게 막을 수 있는지 생각해보세요.
 
-### Getting Started
-
-[repository 주소](https://github.com/codestates/im-sprint-chatterbox-client)
-
 ### 구현 및 테스트 통과
 repository 내의 `client/scripts/app.js` 에서 코드 작업을 시작합니다. 실제로 작동하는 클라이언트를 구현하기 위해서는 `client/index.html` 파일을 수정하세요. `app.js` 파일은 [Singleton 패턴](https://stackoverflow.com/questions/1479319/simplest-cleanest-way-to-implement-a-singleton-in-javascript/1479341#1479341)으로 작성되어야 합니다. 어떻게 시작해야할지 모르겠다면 다음 코드를 참고하세요.
 ```js
