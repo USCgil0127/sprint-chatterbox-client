@@ -43,4 +43,4 @@ XSS 공격을 위해서 우리는 DOM 엘리먼트의 textContent가 아닌 inne
 
 ----------
 
-## Sprint에 대한 더 자세한 내용은 [velog](https://velog.io/write?id=cd43c9c6-0e4d-4097-a198-1552a97bb6f7)에서 확인!!
+## Sprint에 대한 더 자세한 내용은 [velog](https://velog.io/@gil0127/Sprint-Chatterbox-Client)에서 확인!!
